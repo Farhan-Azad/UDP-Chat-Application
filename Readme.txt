@@ -75,5 +75,3 @@ Testing Notes:
 - Single-threaded client design
 - Commands assumed to be entered without errors
 - Each user joins from only one client
-
-Watch the demo video: https://www.youtube.com/watch?v=9NKhHAVH7gc
